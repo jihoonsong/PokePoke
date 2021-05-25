@@ -1,1 +1,2 @@
-# jjak
+# PokePoke
+Application for timid
